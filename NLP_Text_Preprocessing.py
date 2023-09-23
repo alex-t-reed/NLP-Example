@@ -1,5 +1,8 @@
 # Import necessary libraries
 import nltk  # Natural Language Toolkit for text processing
+import nltk
+nltk.download('maxent_ne_chunker')
+nltk.download('words')
 import re    # Regular expressions for text cleaning
 from nltk.tokenize import sent_tokenize, word_tokenize
 from nltk.corpus import stopwords  # Stopwords for text filtering
