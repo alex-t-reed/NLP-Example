@@ -28,12 +28,12 @@ This repository was created to provide practical examples of NLP techniques impl
 
 To run the scripts in this repository, make sure you have the following dependencies installed:
 
-click==8.1.7
-joblib==1.3.2
-nltk==3.8.1
-numpy==1.26.0
-regex==2023.8.8
-tqdm==4.66.1
+- click==8.1.7
+- joblib==1.3.2
+- nltk==3.8.1
+- numpy==1.26.0
+- regex==2023.8.8
+- tqdm==4.66.1
 
 You can install these dependencies using `pip` by running the following command:
 
