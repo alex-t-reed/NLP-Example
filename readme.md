@@ -70,7 +70,6 @@ python TextSummarization_Preprocess.py
 ## Feedback:
 
 For questions, suggestions, or collaboration opportunities, please don't hesitate to reach out me.
-- **Email**: [Alex Reed](mailto:alexreed@ucsb.edu)
 - **LinkedIn**: [Alex Reed on LinkedIn](https://www.linkedin.com/in/alextreed)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alextreed)
